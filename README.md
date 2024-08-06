@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AnasSaeed2001
-- 👀 I’m interested in ...Video games, movies, etc...
-- 🌱 I’m currently learning ...Advanced programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a graduate of Manchester Metropolitan University
 - 📫 How to reach me ... anassaeed@hotmail.co.uk
 
 <!---
